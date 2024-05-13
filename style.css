@@ -1,0 +1,26 @@
+.modal {
+    width: 270px;
+    top: -20px;
+  }
+  
+  .modal-content {
+    width: 270px;
+    position: relative;
+  }
+  
+  .navbar-toggler {
+    position: fixed;
+    top: 20px; 
+    left: 30px; 
+    transform: translate(-50%, 0); 
+  }
+  
+  .posicionamento-logo {
+    position: relative; 
+    left: 50px;       
+  }
+  .mb-3 {
+      position: relative; 
+      text-align: left;
+    }
+  
